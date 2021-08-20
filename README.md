@@ -1,2 +1,7 @@
-# codigos python
- miniprogramas em python
+# Exercicios em Python
+
+Disponibilizei este repósitorio para armazenar meus estudos em Python
+ 
+ 
+ 
+ 
